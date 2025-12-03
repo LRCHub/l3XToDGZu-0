@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "何かが空を飛んでくる",
+  "base_artist": "Aki Toyosaki",
+  "createdAt": "2025-12-03T11:02:55.147858Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "何かが空を飛んでくる",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/01_何かが空を飛んでくる_豊崎_愛生.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "何かが空を飛んでくる",
+      "artist": "豊崎愛生",
+      "has_synced": false,
+      "path": "select/02_何かが空を飛んでくる_豊崎愛生.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "何かが空を飛んでくる",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_何かが空を飛んでくる_豊崎_愛生.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "何かが空を飛んでくる",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_02_何かが空を飛んでくる_豊崎_愛生.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "何かが空を飛んでくる",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_03_何かが空を飛んでくる_豊崎_愛生.txt"
+    }
+  ]
+}
